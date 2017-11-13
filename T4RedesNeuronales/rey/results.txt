@@ -1,0 +1,13 @@
+5 palabras mas parecidas:
+rey
+principe
+beber
+reina
+roma
+------------o------------
+5 palabras menos parecidas
+dominante
+pimienta
+opresor
+bate
+liberal
